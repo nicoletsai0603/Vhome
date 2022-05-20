@@ -2365,7 +2365,7 @@ ol.gobal100 {
     display: block;
     width: 26px;
     height: 33px;
-    background: url(/fore/img/PDF.svg) no-repeat left top;
+    background: url(../img/PDF.svg) no-repeat left top;
     background-size: contain;
     margin-left: 10px;
 }
@@ -3804,14 +3804,14 @@ body #creation-page .sr-list-con-5 .srtag-bk {
 }
 .taiwan_country::before {
     content: "";
-    background: url(../fore/img/country_b.svg) no-repeat 0 0/cover;
+    background: url(../img/country_b.svg) no-repeat 0 0/cover;
     width: 66px;
     height: 49px;
     margin-right: 10px;
 }
 .taiwan_country2::before {
     content: "";
-    background: url(../fore/img/country_c.svg) no-repeat 0 0/cover;
+    background: url(../img/country_c.svg) no-repeat 0 0/cover;
     width: 66px;
     height: 49px;
     margin-right: 10px;
