@@ -3855,7 +3855,7 @@ body #creation-page .sr-list-con-5 .srtag-bk {
 }
 .countryVLR li a:before {
     content: "";
-    background: url(../fore/img/pdf_VLR.svg) no-repeat center/contain;
+    background: url(../img/pdf_VLR.svg) no-repeat center/contain;
     width: 40px;
     height: 29px;
     margin-bottom: 10px;
